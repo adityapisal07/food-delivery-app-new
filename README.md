@@ -44,7 +44,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 <code>
-  git clone 
+  git clone https://github.com/Aatif-12/Food-Delivery-Website
 </code>
 
 

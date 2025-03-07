@@ -3,7 +3,7 @@
 This food delivery web application is designed to provide users with a convenient and seamless experience when ordering food online. Built using React.js and Firebase authentication, the app offers a range of features to enhance the user experience and streamline the ordering process.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-(Live Demo)(https://food-delivery-website-aatif-12.vercel.app/)
+[Live Demo].(https://food-delivery-website-aatif-12.vercel.app/).
 
 
 ### Tech Stack <a name="tech-stack"></a>

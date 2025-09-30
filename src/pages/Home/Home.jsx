@@ -23,7 +23,7 @@ const Home = () => {
           isNavbarVisible={isNavbarVisible}
           toggleNavbarVisibility={toggleNavbarVisibility}
         />
-        <Header />
+        
         <ExploreMenu category={category} setCategory={setCategory} />
         <FoodDisplay category={category} />
         <Contact />

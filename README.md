@@ -41,12 +41,6 @@ In order to run this project you need:
 * GitHub
 * Code Editor
 
-### Setup
-
-Clone this repository to your desired folder:
-<code>
-  git clone https://github.com/Aatif-12/Food-Delivery-Website
-</code>
 
 
 ### Install

@@ -4,7 +4,7 @@ This food delivery web application is designed to provide users with a convenien
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo](https://food-delivery-website-aatif-12.vercel.app/) 
+[Live Demo](https://food-delivery-app-adityapisal07.vercel.app/)
 
 
 ### Tech Stack <a name="tech-stack"></a>

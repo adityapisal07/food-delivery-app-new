@@ -41,7 +41,9 @@ In order to run this project you need:
 * GitHub
 * Code Editor
 
-
+#Clone
+Clone this project using this link 
+https://github.com/adityapisal07/food-delivery-app-new.git
 
 ### Install
 
